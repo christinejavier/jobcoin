@@ -1,11 +1,3 @@
-Hi Christine,
-
-Thanks for your patience with me following up with you. There was a glitch in the system and Justin's scorecard from your interview never came through or I would have followed up sooner.
-
-I am glad to hear that you completed the project and I hope it's up and running smoothly! We are definitely still interested in moving forward.
-
-Below you will find detailed instructions for the Take Home.
-
 Details
 
 Bitcoin is a very difficult protocol to work with, especially for a newcomer to cryptocurrencies, so this challenge is to create an interface for a new, much simpler online currency, the Jobcoin. Jobcoins have “addresses” that are just arbitrary strings, and there’s no mining or transaction signing - anyone can create jobcoins out of thin air, or send them to an address.
