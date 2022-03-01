@@ -1,8 +1,6 @@
 # Jobcoin
 
-This application is my submission for Gemini's take-home challenge.
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Jobcoin App
 
 ## Getting Set Up
 
